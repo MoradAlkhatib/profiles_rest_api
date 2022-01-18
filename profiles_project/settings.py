@@ -120,7 +120,7 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
-# make our costum user configure for this project.
+# make our costum user configure for the project.
 AUTH_USER_MODEL = 'profiles_api.UserProfile'
 
 # Default primary key field type
