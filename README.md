@@ -1,6 +1,6 @@
 # Profile_rest_api
 
-This project just for training on django , rest_framework and authentications  to make some api and dealing with database. 
+
 
 ### APIView 
 - User HTTP method as function(get,post,patch,put,delete).
@@ -15,3 +15,4 @@ This project just for training on django , rest_framework and authentications  t
 
 ### Serializer 
 Convert data from user to the python object and can check validated fields.
+
